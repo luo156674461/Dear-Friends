@@ -22,7 +22,7 @@
     "nprogress": "^0.2.0",
     "style-loader": "^0.23.1",
     "superagent": "^4.1.0",
-    "swiper": "^4.4.6",
+    "swiper": "^6.5.1",
     "vant": "^1.5.6",
     "vconsole": "^3.3.0",
     "vue": "^2.2.2",
